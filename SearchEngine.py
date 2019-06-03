@@ -20,7 +20,7 @@ class SearchEngine:
 	def index(self):
 		print(self.index)
 
-	def _mergeResults(self, res1, res2):
+	def _and(self, res1, res2):
 		result = []
 		i = 0
 		j = 0
@@ -37,13 +37,19 @@ class SearchEngine:
 				i += 1
 				j += 1
 		return result
-    		
+
+	def _not(self, res):
+		pass
+
+	def _and(self, res1, res2):
+		pass
+
 	def searchMapper(self, query):
 		terms = lemmanisation(query.split(' '))
 		return list(map(lambda word: self.index[word] , terms))
 	
 	def andReducer(self, docs):
-		return reduce(self._mergeResults, docs)
+		return reduce(self._and, docs)
 	
 	def search(self, query):
 		return pipeline(
@@ -73,8 +79,8 @@ documents = ['sDf sdgd fghd s fsdss', 'sdfb sdF dhgf gjh', 'sdfb sd dhgf gjh']
 
 booleanSearch = pipeline(
   tokenisation,
-	partial(map, lemmanisation),
-	buildIndex
+  partial(map, lemmanisation),
+  buildIndex
 )
 
 fetchData = pipeline(
@@ -89,5 +95,10 @@ searchEngine = pipeline(
 
 engine = searchEngine(documents)
 
-print(engine.index)
-print(engine.search('sdf sDF'))
+
+def main():
+	print(engine.index)
+	print(engine.search('sdf sDF'))
+
+if __name__ == '__main__':
+	main()
