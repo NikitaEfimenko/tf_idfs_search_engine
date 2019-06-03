@@ -41,7 +41,7 @@ class SearchEngine:
 	def _not(self, res):
 		pass
 
-	def _and(self, res1, res2):
+	def _or(self, res1, res2):
 		pass
 
 	def searchMapper(self, query):
