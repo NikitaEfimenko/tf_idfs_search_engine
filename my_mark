@@ -1,0 +1,159 @@
+python 
+20437, 21038, 23076, 23527, 23836
+'Python (programming language)', 'Python (programming language)', 'Python (programming language)', 'Python (programming language)', 'Python (programming language)'
+5, 5, 4, 2, 2
+21049, 21924, 21048, 20437, 21038
+'List of Python software', 'List of Python software', 'History of Python', 'Python (programming language)', 'Python (programming language)'
+3, 3, 4, 2, 2
+
+very & simple & graph & algorithm & with & code & example
+157, 5003, 9818, 1182, 9044
+'List of algorithms', 'List of algorithms', 'Distributed graph coloring', 'Cole–Vishkin algorithm', 'Cole–Vishkin algorithm'
+5, 4, 4, 3, 2
+727, 2991, 3084, 213, 733
+'Force-directed graph drawing', 'Force-directed graph drawing', 'Force-directed graph drawing', 'In-place algorithm', 'Gomory–Hu tree'
+4, 4, 3, 3, 2
+
+where & to & apply & map & reduce
+9751, 10275, 10487, 8367, 4458
+'MapReduce', 'MapReduce', 'MapReduce', 'Convolutional neural network', 'Singular value decomposition'
+5, 5, 4, 3, 3
+9751, 10275, 10487, 23099, 14354
+'MapReduce', 'MapReduce', 'MapReduce', 'UCBLogo', 'Lodash'
+5, 5, 4, 1, 2
+
+emulate & ray & movement
+13329, 13332
+'Id Tech 3', 'Ioquake3'
+4, 4, 3, 2, 1
+18816, 11005, 17804, 16124, 23497
+'Mark Galassi', 'Ambient calculus', 'Michael Halvorson', "Shoot-'Em-Up Construction Kit", 'MAXScript'
+3, 3, 3, 2, 1
+
+what & are & the & game & engines
+16011, 16450, 16142, 16009, 13357
+'Game engine', 'Unreal Engine', 'Unreal Engine', 'First-person shooter engine', 'Torque (game engine)'
+5, 5, 5, 4, 4
+16011, 16009, 16071, 14061, 15458
+'Game engine', 'First-person shooter engine', 'Id Tech 7', 'Rigs of Rods', 'Stage3D'
+5, 5, 4, 2, 1
+
+ray & casting
+662, 680, 12436, 12207, 12454
+'Point in polygon', 'Visibility polygon', 'Implicit k-d tree', 'Implicit k-d tree', 
+3, 4, 4, 3, 3
+12213, 12454, 662, 12207, 12436
+'Min/max kd-tree', 'Min/max kd-tree', 'Point in polygon', 'Implicit k-d tree', 'Implicit k-d tree'
+4, 4, 4, 3, 3
+
+faster & sorting & algorithm
+8001, 875, 8052, 926, 8098
+'Sorting algorithm', 'Sorting algorithm', 'Quicksort', 'Quicksort', 'Quicksort'
+4, 4, 4, 3, 3
+877, 8003, 934, 8060, 14777
+'Adaptive sort', 'Adaptive sort', 'Sort (C++)', 'Sort (C++)', 'Sort (C++)'
+4, 3, 3, 2, 2
+
+modern & optimization & methods
+3886, 13061, 17313, 12729, 8876
+'Mathematical optimization', 'Compiler', 'Optimizing compiler', 'Premature optimization', 'Premature optimization'
+4, 2, 2, 3, 3
+5813, 4326, 5716, 5829, 4193
+'Modern valence bond theory', 'Shock-capturing method', 'Shock-capturing method', 'Book:Electronic structure methods', 'Olgierd Zienkiewicz'
+4, 4, 5, 5, 5
+
+new & programming & languages
+9135, 21013, 22266, 23704, 24567
+'PL/I', 'PL/I', 'PL/I', 'PL/I', 'PL/I'
+3, 3, 3, 2, 1
+22029, 22129, 9363, 10201, 20336
+'OOPSLA', 'List of programming languages for artificial intelligence', 'Data-centric programming language', 'Data-centric programming language', 'Programming language'
+4, 4, 3, 3, 2
+
+old & dead & programming & languages
+23085, 24576, 24577, 24578, 24579
+'SiMPLE', 'COBOL 20XX', 'COBOL 60', 'COBOL 68', 'COBOL 74'
+3, 4, 4, 4, 4
+23085, 17324, 19760, 13115, 8839
+'SiMPLE', 'Dead code elimination', 'Dream Build Play', 'Rebasing', 'Code bloat'
+4, 3, 2, 1, 1
+
+esoteric & programming & languages
+20362, 24036, 22488, 22127, 24767
+'Chef (programming language)', 'Piet (programming language)', 'List of programming languages by type', 'List of programming languages by type', 'Non-English-based programming languages'
+4, 4, 3, 3, 4
+20362, 24036, 22139, 24767, 2
+'Chef (programming language)', 'Piet (programming language)', 'Non-English-based programming languages', 'Non-English-based programming languages', 'List of programming languages'
+4, 4, 5, 5, 4
+
+django & framework
+16565, 21924, 21049, 19595, 18835
+'Web framework', 'List of Python software', 'List of Python software', 'Adrian Holovaty', 'Adrian Holovaty'
+4, 4, 3, 2, 2
+15481, 17529, 18835, 19595, 17647
+'Comparison of database access', 'Adrian Holovaty', 'Adrian Holovaty', 'Adrian Holovaty', 'Simon Willison'
+2, 3, 3, 3, 1
+
+django & framework & !python
+16677, 15481, 16516, 16584, 16703
+'Play Framework', 'Comparison of database access', 'ASP.NET MVC', 'ASP.NET MVC', 'Symfony'
+3,4,3,3,3
+21065, 17529, 18835, 19595, 17647
+'PythonAnywhere', 'Adrian Holovaty', 'Adrian Holovaty', 'Adrian Holovaty', 'Simon Willison'
+2,2,2,1,1
+
+(redux | flux | MVVC) & architecture
+14380, 14379, 12013, 12173, 8901
+'Redux (JavaScript library)', 'React (web framework)', 'Persistent data structure', 'Persistent data structure', 'The Art of Computer Programming'
+5, 4, 4, 4, 4
+14380, 14379, 12013, 12173, 1092
+'Redux (JavaScript library)', 'React (web framework)', 'Persistent data structure', 'Persistent data structure', 'The Art of Computer Programming'
+5, 4, 4, 4, 4
+
+SPA & frontend & frameworks
+14427, 16475, 20237, 16652
+'Vue.js', 'Vue.js', 'Vue.js', 'Laravel'
+5,4,4,3,3
+24824, 16676, 14299, 14427, 16475
+'Isomorphic JavaScript', 'PhpCodeGenie', 'Cascade Framework', 'Vue.js', 'Vue.js'
+3,2,4,4,4
+
+most & popular & framework
+21049, 21924, 16699, 20059, 13516
+'List of Python software', 'List of Python software', 'Spring Framework', 'Model–view–controller', 'Firefox'
+3,3,4,3,1
+14221, 16209, 16837, 16677, 13353
+'Google Guava', 'PowerPlant', 'PowerPlant', 'Play Framework', 'Starling Framework'
+2,3,3,1,1
+
+big & data & algorithms
+9809, 8286, 8455, 3238, 1504
+'Big data', 'Radial basis function network', 'Radial basis function network', 'Radial basis function network', 'Radial basis function network'
+4,5,3,3,1
+214, 9809, 9363, 10201, 10224
+'Incremental learning', 'Big data', 'Data-centric programming language', 'Data-centric programming language', 'GPI-Space'
+5,4,2,1,1
+
+popular & search & engine
+6584, 23576, 21188, 13516, 14146
+'Yandex Search', 'WikiTalk', 'WikiTalk', 'Firefox', 'Firefox'
+5,3,3,1,1
+13997, 21467, 13985, 21456, 21672
+'Yandex Browser', 'Yandex Browser', 'Sputnik (search engine)', 'Sputnik (search engine)', 'YaCy'
+2,2,3,4,3
+
+n*log(n)
+0, 1, 2, 3, 4
+'Computer programming', 'Outline of computer programming', 'List of programming languages', 'AirPair', 'Algoid (programming language)'
+1,1,1,1,1
+1099, 3428, 3734, 6267, 19944
+"Fürer's algorithm", "Fürer's algorithm", "Fürer's algorithm", 'Master theorem (analysis of algorithms)', 'Master theorem (analysis of algorithms)'
+2,2,2,3,3
+
+algorithm & for & parsing & polish & notation
+11820, 8745, 8738, 24299, 20750
+'Polish notation', 'Shunting-yard algorithm', 'Operator-precedence parser', 'Haskell features', 'Haskell features'
+3, 4, 2, 1, 1
+8745, 11820, 8738, 11823, 11810
+'Shunting-yard algorithm', 'Polish notation', 'Operator-precedence parser', 'Reverse Polish notation', 'Infix notation'
+4, 3, 2, 3, 2
